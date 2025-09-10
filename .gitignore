@@ -1,0 +1,7 @@
+.idea
+
+# Database
+*.sqlite3
+
+# Python cache
+__pycache__/
